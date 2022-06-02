@@ -2,13 +2,9 @@ Url Ddefault : localhost/ekios
 database : db_ekios
 admin 
 
-username : imamasri@outlook.com
+username : damartantyo@gmail.com
 password : admin
 
 kasir
-username : imamasri02@outlook.com
+username : richard@gmail.com
 password : admin
-
-kontak : bayuhidayat.co@gmail.com
-untuk berterima kasih follow akun ig @bayutrends:)
-semoga bermanfaat
