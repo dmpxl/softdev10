@@ -1,5 +1,5 @@
 Url Ddefault : localhost/ekios
-database : db_ekios
+database : kasir_db
 admin 
 
 username : damartantyo@gmail.com
